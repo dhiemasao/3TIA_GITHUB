@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Dhiemas_3TIA", "D:\Dhiemas_3TIA\", "{14310BEA-568C-4020-9C51-9D87C4163904}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50624"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Dhiemas_3TIA\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50624\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50624"
+		Release.AspNetCompiler.PhysicalPath = "D:\Dhiemas_3TIA\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50624\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50624"
+		SlnRelativePath = "D:\Dhiemas_3TIA\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14310BEA-568C-4020-9C51-9D87C4163904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14310BEA-568C-4020-9C51-9D87C4163904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
